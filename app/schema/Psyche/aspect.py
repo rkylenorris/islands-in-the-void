@@ -49,7 +49,7 @@ class ThresholdEvent(PsycheBase):
     name = Column(String, nullable=False)
     description = Column(Text, nullable=False)
     threshold_value = Column(Integer, nullable=False)
-    threshold_polarity = Column(enm(ThresholdPolarity, "threshold_polarity_enum"), nullable=False)
+    threshold_polarity = Column(enm(ThresholdPolarity), nullable=False)
     
     dialogue_prompt_id = Column(Integer, ForeignKey('story.dialogue_prompts.id'))
     aspect_id = Column(Integer, ForeignKey('psyche.aspects.id'), nullable=False)
@@ -64,3 +64,5 @@ class ThresholdEvent(PsycheBase):
 class Effect(PsycheBase):
     __tablename__ = 'effects'
     id = Column(Integer, primary_key=True)
+    event_type = Column(String, nullable=False)
+    event_id = Column(Integer, nullable=False)
