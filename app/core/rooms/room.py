@@ -33,3 +33,13 @@ class Room:
     def __str__(self) -> str:
         return f"The {self.title}: {self.theme} theme\n{self.description}\nItems: {', '.join([item.name for item in self.items if not item.hidden])}" if len(self.items) > 0 else f"The {self.title}: {self.theme} theme\n{self.description}\nNo items in this room."
     
+    
+@dataclass
+class RoomAction:
+    name: str
+    description: str
+    effect: str
+    def __init__(self, name: str, description: str, effect: str):
+        self.name = name
+        self.description = description
+        self.effect = effect

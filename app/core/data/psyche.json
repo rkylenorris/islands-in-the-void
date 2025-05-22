@@ -1,0 +1,48 @@
+{
+    "player_stats": {
+      "ego": {
+        "name": "The Mask",
+        "value": 55,
+        "description": "The conscious self-image; confidence, illusion of control.",
+        "visible": true
+      },
+      "id": {
+        "name": "The Flame",
+        "value": 70,
+        "description": "Raw desire, impulse, instinct. Acts before thought.",
+        "visible": true
+      },
+      "superego": {
+        "name": "The Chain",
+        "value": 45,
+        "description": "Internalized judgment and guilt. A voice saying 'you should.'",
+        "visible": true
+      },
+      "shadow": {
+        "name": "That Which Remains",
+        "value": 0,
+        "description": "The repressed, feared, or forgotten parts of the self.",
+        "visible": false
+      },
+      "anima": {
+        "name": "The Mirror",
+        "value": 60,
+        "description": "The inner Other. Empathy, emotional depth, and symbol synthesis.",
+        "visible": true
+      },
+      "persona": {
+        "name": "The Veil",
+        "value": 50,
+        "description": "The social mask. How others see you. Surface over substance.",
+        "visible": true
+      },
+      "self": {
+        "name": "The One Who Remembers",
+        "value": null,
+        "description": "The true center of the psyche. Can only be unlocked after integration.",
+        "visible": false,
+        "unlock_condition": "all stats must reach balance or a major story event"
+      }
+    }
+  }
+  
