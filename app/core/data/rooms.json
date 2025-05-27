@@ -1,0 +1,257 @@
+[
+    {
+    "title": "Echoing Gallery",
+    "theme": "Memory",
+    "description": "Dusty portraits line the walls, their eyes seeming to follow you. Each footstep lands like a drumbeat in an abandoned church.",
+    "items": [
+      {
+        "name": "Fractured Locket",
+        "description": "Contains a faded photograph of someone almost—but not quite—familiar.",
+        "hidden": false,
+        "aspect_effect": { "Anima": 5 }
+      },
+      {
+        "name": "Old Recorder",
+        "description": "A click and static. Then, a voice you recognize says your name.",
+        "hidden": true,
+        "aspect_effect": { "Ego": -3 }
+      }
+    ]
+  },
+  {
+    "title": "Reverie Alcove",
+    "theme": "Memory",
+    "description": "A sunbeam illuminates a reading chair worn smooth by time. Books open to dog-eared pages rest as if just set down.",
+    "items": [
+      {
+        "name": "Pressed Flower",
+        "description": "Still fragrant. A relic from a day you’d forgotten until now.",
+        "hidden": false,
+        "aspect_effect": { "Persona": 4 }
+      }
+    ]
+  },
+  {
+    "title": "The Archive Beneath",
+    "theme": "Memory",
+    "description": "Shelves curve endlessly into the dark. You swear the files are rearranging themselves when you’re not looking.",
+    "items": [
+      {
+        "name": "Burned Letter",
+        "description": "Only the words 'never again' are legible.",
+        "hidden": true,
+        "aspect_effect": { "Shadow": 6 }
+      },
+      {
+        "name": "Ink-stained Index Card",
+        "description": "It lists names you’ve dreamed about. One is underlined.",
+        "hidden": false,
+        "aspect_effect": { "Self": -2 }
+      }
+    ]
+  },
+  {
+    "title": "Hollow Spire",
+    "theme": "Void",
+    "description": "A black tower that hums with silence. The interior spirals upward without any visible light source.",
+    "items": [
+      {
+        "name": "Obsidian Shard",
+        "description": "It reflects nothing, not even light.",
+        "hidden": false,
+        "aspect_effect": { "Id": 4 }
+      },
+      {
+        "name": "Null Seal",
+        "description": "An unopenable envelope that absorbs heat when touched.",
+        "hidden": true,
+        "aspect_effect": { "Ego": -5 }
+      }
+    ]
+  },
+  {
+    "title": "Cradle of Dusk",
+    "theme": "Void",
+    "description": "The land dips here into a smooth, featureless depression. The sky above it is permanently twilight.",
+    "items": [
+      {
+        "name": "Unmarked Hourglass",
+        "description": "The sand inside flows sideways.",
+        "hidden": false,
+        "aspect_effect": { "Superego": -3 }
+      }
+    ]
+  },
+  {
+    "title": "Unworded Library",
+    "theme": "Void",
+    "description": "Books line the shelves, but every page is blank. Yet you feel watched when you open one.",
+    "items": [
+      {
+        "name": "Black Quill",
+        "description": "Writing appears when held near your skin.",
+        "hidden": true,
+        "aspect_effect": { "Shadow": 8 }
+      },
+      {
+        "name": "Silken Bookmark",
+        "description": "It flutters even without wind.",
+        "hidden": false,
+        "aspect_effect": { "Persona": -2 }
+      }
+    ]
+  },
+  {
+    "title": "Somnus Atrium",
+    "theme": "Dream",
+    "description": "Pillars of mist twist upward into an invisible ceiling. The air tastes faintly of lavender and static electricity.",
+    "items": [
+      {
+        "name": "Lucid Pendant",
+        "description": "Wearing it makes your footsteps silent and your thoughts loud.",
+        "hidden": false,
+        "aspect_effect": { "Anima": 6 }
+      },
+      {
+        "name": "Feather of an Unseen Bird",
+        "description": "Warm to the touch. Feels like a memory from someone else's life.",
+        "hidden": true,
+        "aspect_effect": { "Self": 3 }
+      }
+    ]
+  },
+  {
+    "title": "The Cradle Unmade",
+    "theme": "Dream",
+    "description": "A floating bed of roots and ribbons hovers over a lake that reflects nothing. Gentle music echoes without source.",
+    "items": [
+      {
+        "name": "Spindle Doll",
+        "description": "Its limbs rearrange when unobserved. It hums lullabies at night.",
+        "hidden": true,
+        "aspect_effect": { "Shadow": 2 }
+      },
+      {
+        "name": "Ribbon of Forgetting",
+        "description": "Tying it around your wrist makes it harder to recall your name.",
+        "hidden": false,
+        "aspect_effect": { "Ego": -4 }
+      }
+    ]
+  },
+  {
+    "title": "The Glass Meadow",
+    "theme": "Dream",
+    "description": "Blades of transparent grass sway in a nonexistent breeze. When broken, they chime like bells.",
+    "items": [
+      {
+        "name": "Stained Glass Seed",
+        "description": "Planting it summons a fleeting vision of a possible future.",
+        "hidden": false,
+        "aspect_effect": { "Superego": 3 }
+      }
+    ]
+  },
+  {
+    "title": "The Twin Hall",
+    "theme": "Mirror",
+    "description": "Two hallways face each other, identical in form, yet each detail mirrored. Every step echoes twice.",
+    "items": [
+      {
+        "name": "Polished Coin",
+        "description": "One side always shows your face. The other is blank.",
+        "hidden": false,
+        "aspect_effect": { "Persona": 5 }
+      },
+      {
+        "name": "Mirror Sliver",
+        "description": "It always reflects what you refuse to acknowledge.",
+        "hidden": true,
+        "aspect_effect": { "Shadow": 7 }
+      }
+    ]
+  },
+  {
+    "title": "The Infinite Stair",
+    "theme": "Mirror",
+    "description": "A spiraling staircase lined with panes of glass. In each, a version of you walks a different path.",
+    "items": [
+      {
+        "name": "Reflection Lens",
+        "description": "Looking through it reveals others’ secrets—but only in reverse.",
+        "hidden": false,
+        "aspect_effect": { "Superego": 4 }
+      }
+    ]
+  },
+  {
+    "title": "Stillwater Antechamber",
+    "theme": "Mirror",
+    "description": "The floor is a smooth lake reflecting stars not seen above. Your reflection moves on its own.",
+    "items": [
+      {
+        "name": "Silent Oath Ring",
+        "description": "Said to bind you to the version of yourself you fear most.",
+        "hidden": true,
+        "aspect_effect": { "Ego": -6 }
+      },
+      {
+        "name": "Scrying Thread",
+        "description": "Pulling it shows a glimpse of someone thinking about you.",
+        "hidden": false,
+        "aspect_effect": { "Anima": 2 }
+      }
+    ]
+  },
+  {
+    "title": "The Howling Place",
+    "theme": "Shadow",
+    "description": "Dark wind howls through broken arches. The sound mimics your inner thoughts at their worst.",
+    "items": [
+      {
+        "name": "Gnawed Journal",
+        "description": "Each page describes a failure you never told anyone about.",
+        "hidden": false,
+        "aspect_effect": { "Shadow": 6 }
+      },
+      {
+        "name": "Unlit Lantern",
+        "description": "Holding it makes others hesitate to meet your gaze.",
+        "hidden": true,
+        "aspect_effect": { "Persona": -4 }
+      }
+    ]
+  },
+  {
+    "title": "The Chamber of Remains",
+    "theme": "Shadow",
+    "description": "Bone-white walls hold the remnants of forgotten choices. It smells faintly of salt and ash.",
+    "items": [
+      {
+        "name": "Cracked Mask",
+        "description": "When worn, others perceive you as someone from your past.",
+        "hidden": false,
+        "aspect_effect": { "Ego": -5 }
+      },
+      {
+        "name": "Ash Vine",
+        "description": "Still grows in your hand. Still burns your skin.",
+        "hidden": true,
+        "aspect_effect": { "Id": 4 }
+      }
+    ]
+  },
+  {
+    "title": "The Shrine of Denial",
+    "theme": "Shadow",
+    "description": "A defaced statue kneels in silent apology. Its shadow moves before it does.",
+    "items": [
+      {
+        "name": "Pact-Bound Chain",
+        "description": "Unbreakable and warm, it tightens when lies are spoken.",
+        "hidden": false,
+        "aspect_effect": { "Superego": 2 }
+      }
+    ]
+  }
+]
